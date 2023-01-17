@@ -1,0 +1,1 @@
+readMessages: bin/kafka-console-consumer.sh --topic funbiKafkaTopic --from-beginning --bootstrap-server localhost:9092
