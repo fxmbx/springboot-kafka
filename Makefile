@@ -1,1 +1,2 @@
 readMessages: bin/kafka-console-consumer.sh --topic funbiKafkaTopic --from-beginning --bootstrap-server localhost:9092
+readJsonMessages: bin/kafka-console-consumer.sh --topic funbiKafkaTopic_json --from-beginning --bootstrap-server localhost:9092
